@@ -8,10 +8,6 @@ Price prediction here represents a task in predicting the price of the digital c
 ## Features
 Long Short Term Memory (LSTM) represents the model that was implemented in this project.
 
-## Installation
-
-## Usage
-
 ## Datasets
 Dataset Name: Bitcoin Transactional Data
 
